@@ -38,7 +38,7 @@ const Contact = () => {
         <div className="lg:col-span-2 space-y-8">
           {[
             { icon: Mail, label: "Email", href: "mailto:aaryanyadav.works@email.com", value: "aaryanyadav.works@gmail.com" },
-            { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/aaryanyadav85/", value: "linkedin.com/in/aaryanyadav85/" },
+            { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/aaryanyadav85", value: "linkedin.com/in/aaryanyadav85" },
             { icon: Github, label: "GitHub", href: "https://github.com/Aaryan85", value: "github.com/aaryan85" },
             { icon: Instagram, label: "Instagram", href: "https://instagram.com/aaryan.yadav_05", value: "@aaryan.yadav_05" },
           ].map((item) => {
