@@ -68,7 +68,7 @@ function Home() {
                 className="px-3 py-2 rounded-full text-lg  text-white
               bg-linear-to-r from-[#1cd8d2] via-[#00bf8f] to-[#302b63] hover:scale-105 transition-all
               duration-300 ">View My Work</a>
-              <a href="my-portfolio/public/aaryan_resume.pdf"
+              <a href="/aaryan_resume.pdf"
                 download={'Aaryan_Resume.pdf'}
                 className="px-3 py-2 rounded-full text-lg  text-black bg-white
               hover:scale-105 transition-all
